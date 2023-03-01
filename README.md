@@ -66,6 +66,7 @@ quer realizar a ação. Para evitar a remoção de produtos de maneira indesejad
 ## Captura de telas
 
 <div>
+<img src="https://user-images.githubusercontent.com/83470427/222241434-ed086257-f22d-4fdc-b2d0-d52acca476e9.gif" width="250">
 <img src="https://user-images.githubusercontent.com/83470427/218348916-bb9f3f25-aaba-4d84-b9cd-cbf6309f3b20.png" width="250">
 <img src="https://user-images.githubusercontent.com/83470427/218348922-5d27b373-da6c-461b-a1c4-5ed6b4a5ddab.png" width="250">
 <img src="https://user-images.githubusercontent.com/83470427/218348921-fedef4c6-c3bc-4dee-a892-260a5d6d1456.png" width="250">
